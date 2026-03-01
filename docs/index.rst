@@ -63,10 +63,8 @@ SIMATIC WinCC Unified V19
 
    overview/index
    structure/index
-
-Indices and tables
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   fundamentals/index
+   layout/index
+   notes/index
+   appendix/index
+   

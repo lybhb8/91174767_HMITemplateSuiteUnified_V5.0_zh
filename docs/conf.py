@@ -51,7 +51,7 @@ myst_enable_extensions = [
 
 #########################################################################
 project = 'SIEMENS Hmi Template Suit V5.0 中文版'
-copyright = f'2020-{time.strftime("%Y")}, 宁波双紫信息科技有限公司'
+copyright = f'2025-{time.strftime("%Y")}, 宁波双紫信息科技有限公司'
 release = version = __display_version__
 show_authors = False
 author = 'lybhb8'
@@ -80,7 +80,7 @@ html_favicon = '_static/favicon.ico'
 htmlhelp_basename = 'Sphinxdoc'
 
 epub_theme = 'epub'
-epub_basename = 'S7-1200 PLC'
+epub_basename = 'Hmi Template Suit V5.0 中文版'
 epub_author = 'lybhb8'
 epub_publisher = 'https://www.sphinx-doc.org/'
 epub_uid = 'web-site'
