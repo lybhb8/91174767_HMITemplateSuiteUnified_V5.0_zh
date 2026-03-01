@@ -39,7 +39,7 @@ SIMATIC WinCC Unified V19
 
 西门子保留随时更改应用示例的权利，恕不另行通知。若应用示例中的建议与西门子其他出版物（如产品目录）存在差异，则以其他文档内容为准。  
 
-西门子使用条款（https://support.industry.siemens.com）同样适用。
+西门子使用条款(https://support.industry.siemens.com)同样适用。
 
 安全信息  
 ---------------

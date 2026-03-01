@@ -6,7 +6,7 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "Sphinx"
 description = "Python documentation generator"
-readme = "README.rst"
+readme = "README.md"
 urls.Changelog = "https://www.sphinx-doc.org/en/master/changes.html"
 urls.Code = "https://github.com/sphinx-doc/sphinx"
 urls.Download = "https://pypi.org/project/Sphinx/"
