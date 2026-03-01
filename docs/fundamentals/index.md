@@ -91,7 +91,7 @@
 | ![alt text](image-10.png)   | 94,209,173 | 状态"OK" |
 | ![alt text](image-11.png)   | 0,80,104 | 深蓝色  显示元素的互补色 |
 
-The following color is used for ordinary text:   
+以下颜色用于普通文本:   
 
 表 3-3
 
@@ -117,7 +117,7 @@ The following color is used for ordinary text:
 
 > 注: 该网格仅在WinCC Unified V17 Update 1版本之前获得部分支持。  
 
-The following 图 shows the steps for setting the grid in the TIA Portal.  
+下图展示了在TIA Portal中设置网格的步骤:
 
 ![](../images/03d3f4b278f9f5aa4945991f40cd02f14f7482b931517d3d579969ed50ef4447.jpg)  
 

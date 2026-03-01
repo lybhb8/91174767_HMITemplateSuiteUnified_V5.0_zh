@@ -16,7 +16,7 @@ Integrating the Library
 
 I通常，使用HMI模板套件库有两种方式。这两种选项如图5-1所示。第一种方式是创建新的操作面板，仅对其进行参数化设置后投入运行（1）（参见第5.1.1节）。 
 
-第二种方式是将库中感兴趣的内容逐步手动集成到现有操作面板中（2）（详见第5.1.2节）。  
+第二种方式是将库中感兴趣的内容逐步手动集成到现有操作面板中（2）（详见[第5.1.2节](#512-将hmi模板套件库中的内容扩展到tia-portal项目中的现有操作面板)）。  
 
 图5-1  
 
@@ -101,7 +101,7 @@ Expanding Content from the HMI Template Suite Library to an Existing Operator Pa
 
 ![](../images/46033a77d9c4488ce903c1c10a0a8164f6b2a1091c67fff669ec054514ada767.jpg)  
 
-9. 下一步，将面板、HMI标签和脚本函数从库中复制到您的项目中（参见图5-10和第5.5节）。  
+9. 下一步，将面板、HMI标签和脚本函数从库中复制到您的项目中（参见图5-10和[第5.5节](#55-面板)）。  
 
 图 5-10
 
@@ -109,7 +109,7 @@ Expanding Content from the HMI Template Suite Library to an Existing Operator Pa
 
 10. 编译您的项目，并检查HMI模板套件中的操作面板是否存在组件缺失。
 11. 将“1001_ScreenLayout”页面设置为启动页面。
-12. 为您的页面配置页面切换功能，并实现导航方案。详见第4节和第5.2节。 
+12. 为您的页面配置页面切换功能，并实现导航方案。详见[第4节](../layout/index.md#4-画面布局与结构)和[第5.2节](../notes/index.md#52-配置页面切换)。 
 
 > 注: 当通过拖放操作将单个页面从全局库复制到现有TIA Portal项目的项目目录时，先前隐藏的单个图层将显示出来。您可以在布局区域的“图层”选项下再次隐藏这些对象或图层"Layers"。 ![](../images/30738019ca9dcede97b5dd3cac24eba4382e294eb69c73567e8d9040e1d63b5b.jpg)  
 
@@ -134,7 +134,7 @@ Calling up the Screen Change via a System Function
 
 要在TIA Portal中配置上述页面切换，需执行以下步骤：
 
-1. 在目标（导航）页面（如“1101_ScreenLayout_SubNav”）上，用鼠标左键选中任意按钮（B）。该按钮在按下时需显示不同于目标（导航）页面及主窗口（MainWindow）中首个按钮（A）的页面（参见第4.1.4节）。
+1. 在目标（导航）页面（如“1101_ScreenLayout_SubNav”）上，用鼠标左键选中任意按钮（B）。该按钮在按下时需显示不同于目标（导航）页面及主窗口（MainWindow）中首个按钮（A）的页面（参见[第4.1.4节](../layout/index.md#414-主窗口mainwindow)）。
 
 图 5-12
 
@@ -225,7 +225,7 @@ ContentBoard Quick Start Guide
 
 **配置 Configuring**  
 
-在页面上插入一个新矩形，并将该矩形设置为白色（使用案例“矩形Rectangles”，参见第4.4.3节）。
+在页面上插入一个新矩形，并将该矩形设置为白色（使用案例“矩形Rectangles”，参见[第4.4.3节](../layout/index.md#443-进一步目标further-objects用例)）。
 
 ![](../images/2cc4cc2df25856a7aa388c972297870fed92805cd68ebb71d55d45471a2b65f1.jpg)  
 
