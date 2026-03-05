@@ -12,8 +12,8 @@ sphinx:
   builder: html
 
 # 可选：生成 PDF 格式文档
-formats:
-- pdf
+#formats:
+#- pdf
 
 
 python:
